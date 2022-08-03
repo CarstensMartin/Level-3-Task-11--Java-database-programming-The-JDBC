@@ -1,0 +1,66 @@
+Customer Dependency Diagram:
+
+Name, ContactNumber, Email -> StreetAddress, Suburb, City
+
+Name -> ContactNumber, Email, StreetAddress, Suburb, City
+
+ContactNumber -> Name, Email StreetAddress, Suburb, City
+
+Email -> Name, ContactNumber, StreetAddress, Suburb, City
+
+
+  →→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→
+  ↑          ↓          ↓           ↓            ↓       ↓
+  ↑        →→↓→→→→→→→→→→↓→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→
+  ↑        ↑ ↓          ↓           ↓            ↓       ↓
+  →→→→→→→→→→→↓→→→→→→→→  ↓           ↓            ↓       ↓
+  ↑        ↑ ↓        ↑ ↓           ↓            ↓       ↓
+Name, ContactNumber, Email -> StreetAddress, Suburb, City 
+↑  ↑      ↓     ↑     ↑  ↓          ↑            ↑       ↑
+↑   ←←←←←←←→→→→→↑→→→→→→→→↓→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→
+↑               ↑        ↓          ↑            ↑       ↑
+ ←←←←←←←←←←←←←←←←←←←←←←←←→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→
+
+* See figure 1
+
+Driver Dependency Diagram:
+
+Name -> City, Deliveries
+
+
+ →→→→→→→→→→→→→→→→→→
+ ↑       ↓         ↓
+Name -> City, Deliveries
+
+* See figure 2
+
+Restaurant Dependency Diagram:
+
+Name, ContactNumber -> City
+
+Name -> City, ContactNumber
+
+ContactNumber -> Name, City
+
+
+→→→→→→→→→→→→→→→→→→→→→→→→→→
+↑             ↓           ↓
+↑  →→→→→→→→→→→↓→→→→→→→→→  ↓
+↑ ↑       ↑   ↓        ↓  ↓
+Name, ContactNumber -> City
+ ↑         ↓           ↑
+ ←←←←←←←←←←←→→→→→→→→→→→→
+
+* See figure 3
+
+Orders Dependency Diagram:
+
+OrderNumber -> Customer, Driver, Restaurant, ItemOne, QuantityOne, PriceOne, ItemTwo, QuantityTwo, SpecialInstructions
+
+
+    →→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→
+    ↑            ↓         ↓         ↓          ↓         ↓           ↓         ↓          ↓               ↓
+OrderNumber -> Customer, Driver, Restaurant, ItemOne, QuantityOne, PriceOne, ItemTwo, QuantityTwo, PriceTwo, SpecialInstructions
+
+
+* See figure 4

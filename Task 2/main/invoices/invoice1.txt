@@ -1,0 +1,22 @@
+Order number 1
+Customer: Werner Smit
+Email: Werner@customer.com
+Phone number: 0723333222
+Location: Cape Town
+
+You have ordered the following from  Asamis in Cape Town
+
+8 x Tuna Rolls(59.5)
+3 x Cruch rolls(89.99)
+
+Special instructions: Extra Mayo on the side
+
+Total: R568.99
+
+Miranda Metcalfe is nearest to the restaurant and so he will be delivering your
+order to you at:
+ 
+8 Cocorico Street
+Durbanville
+ 
+If you need to contact the restaurant, their number is 0216253366

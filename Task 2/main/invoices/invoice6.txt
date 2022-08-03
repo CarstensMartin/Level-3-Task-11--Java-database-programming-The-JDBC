@@ -1,0 +1,22 @@
+Order number 6
+Customer: Sam Peters
+Email: Sam@Customer.co.za
+Phone number: 0726664444
+Location: Cape Town
+
+You have ordered the following from  The Grand in Cape Town
+
+2 x Sushi Bowl(169.58)
+0 x null(0.0)
+
+Special instructions: Please send utensils
+
+Total: R339.16
+
+Miranda Metcalfe is nearest to the restaurant and so he will be delivering your
+order to you at:
+ 
+15 Main Road
+Cape Town
+ 
+If you need to contact the restaurant, their number is 0215556666

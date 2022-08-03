@@ -1,0 +1,22 @@
+Order number 7
+Customer: Merwe Snyman
+Email: Merwe@Customer.com
+Phone number: 0823334444
+Location: Bloemfontein
+
+You have ordered the following from  Happy Steak in Bloemfontein
+
+1 x Ribeye Steak(299.99)
+1 x Pizza Margarita(69.5)
+
+Special instructions: Steak must be Medium
+
+Total: R370.49
+
+Trevor Rigby is nearest to the restaurant and so he will be delivering your
+order to you at:
+ 
+28 Church Street
+North Side
+ 
+If you need to contact the restaurant, their number is 0722223333
