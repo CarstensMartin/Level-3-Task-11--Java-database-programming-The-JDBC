@@ -36,13 +36,8 @@ To place a copy of this work on your local computer, use the git cloning process
 * Enter the following command - git clone https://github.com/CarstensMartin/Delivery-System-Java-mySQL/
 * Once cloned, open as a project in ecplise or your selected EDI. The file should be fully functional and can be edited to your requirements.
 
-## How to use the project
-*This project' code can also be modified to the requirements of your online delivery system:
-![image](https://user-images.githubusercontent.com/)
-// Image to be added once uploaded
-
-// Image to be added once uploaded
-
+## Use of the project
+*This project' code can be modified to the requirements of your online delivery system:
 
 ## Autors of this project:
 https://github.com/CarstensMartin
