@@ -87,7 +87,7 @@ Submit the following:
 
 Follow these steps:
 
-● Copy and paste the code that you wrote for the last JavaScript Capstone Project into the Dropbox folder for this Capstone Project.
+● Copy and paste the code that you wrote for the last Capstone Project(Level 2) into the Dropbox folder for this Capstone Project.
 
 ● Modify your code so that it:
 
@@ -110,8 +110,6 @@ Follow these steps:
 ● Besides meeting the above criteria, you should also do the following:
 
 ○ Include exception handling. Use try-catch blocks wherever appropriate.
-
-○ Adequately refactor your code.
 
 ○ Document your code.
 
